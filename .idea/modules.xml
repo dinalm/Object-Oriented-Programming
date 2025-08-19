@@ -3,6 +3,7 @@
   <component name="ProjectModuleManager">
     <modules>
       <module fileurl="file://$PROJECT_DIR$/Module_1_1/Module_1_1.iml" filepath="$PROJECT_DIR$/Module_1_1/Module_1_1.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Module_1_2/Module_1_2.iml" filepath="$PROJECT_DIR$/Module_1_2/Module_1_2.iml" />
       <module fileurl="file://$PROJECT_DIR$/Object-Oriented-Programming.iml" filepath="$PROJECT_DIR$/Object-Oriented-Programming.iml" />
     </modules>
   </component>
