@@ -14,7 +14,6 @@ public class Cat {
         Cat cat1 = new Cat("Whiskers");
         Cat cat2 = new Cat("Rex");
 
-        // Call meow in the required order
         cat1.meow();
         cat1.meow();
         cat2.meow();
