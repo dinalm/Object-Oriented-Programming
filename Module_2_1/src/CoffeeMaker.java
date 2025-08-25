@@ -32,7 +32,7 @@ public class CoffeeMaker {
         return coffeeType;
     }
 
-    // Set coffee amount
+    //Set coffee amount
     public void setCoffeeAmount(int amount) {
         if (on) {
             if (amount >= 10 && amount <= 80) {

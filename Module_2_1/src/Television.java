@@ -3,8 +3,8 @@ public class Television {
     private boolean on;
 
     public Television() {
-        this.channel = 1;  // start at channel 1
-        this.on = false;   // TV is off initially
+        this.channel = 1;
+        this.on = false;
     }
 
     public int getChannel() {
