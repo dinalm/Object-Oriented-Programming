@@ -44,10 +44,6 @@ public class Calculator {
             calc.add(10);
             calc.add(20);
             System.out.println("Current value: " + calc.getValue());
-
-            // Uncommenting this will throw an exception
-            // calc.add(-3);
-
             calc.reset();
             System.out.println("After reset: " + calc.getValue());
         } catch (IllegalArgumentException e) {
@@ -73,7 +69,7 @@ The `Calculator` class models a simple integer calculator:
         - If the input is negative, it throws an `IllegalArgumentException`
     - `getValue()` → returns the current total
 
-- **Main Method (temporary)**
+- **Main Method**
     - Demonstrates usage by adding numbers and printing the results
     - Shows how an exception is thrown if a negative number is added
     - Resets the calculator and prints the cleared value  
