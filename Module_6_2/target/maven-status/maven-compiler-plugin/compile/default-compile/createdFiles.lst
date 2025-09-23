@@ -1,0 +1,5 @@
+org\example\converter\CurrencyConverterController.class
+org\example\converter\CurrencyConverterView.class
+org\example\converter\Currency.class
+org\example\converter\CurrencyConverterApp.class
+org\example\converter\CurrencyModel.class
