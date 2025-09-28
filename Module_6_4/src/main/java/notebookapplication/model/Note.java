@@ -1,4 +1,4 @@
-package model;
+package notebookapplication.model;
 
 public class Note {
     private String title;

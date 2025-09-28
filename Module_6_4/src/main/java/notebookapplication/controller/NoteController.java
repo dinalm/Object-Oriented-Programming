@@ -1,10 +1,10 @@
-package controller;
+package notebookapplication.controller;
 
 import javafx.fxml.FXML;
 import javafx.fxml.Initializable;
 import javafx.scene.control.*;
-import model.Note;
-import model.Notebook;
+import notebookapplication.model.Note;
+import notebookapplication.model.Notebook;
 
 import java.net.URL;
 import java.util.ResourceBundle;
