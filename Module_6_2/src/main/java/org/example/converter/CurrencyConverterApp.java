@@ -11,7 +11,7 @@ public class CurrencyConverterApp extends Application {
         CurrencyConverterView view = new CurrencyConverterView(primaryStage);
         CurrencyConverterController controller = new CurrencyConverterController();
 
-        // Connect view and controller
+        // Connect CurrencyConverterApp.view and CurrencyConverterApp.controller
         controller.setView(view);
 
         // Show the application

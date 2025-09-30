@@ -46,7 +46,7 @@ public class Controller {
         pet.stopMoving();
     }
 
-    // Getters for the view
+    // Getters for the CurrencyConverterApp.view
     public double getPetX() {
         return pet.getX();
     }

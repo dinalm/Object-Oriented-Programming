@@ -39,7 +39,7 @@ public class VirtualPetView extends Application {
         canvas = new Canvas(CANVAS_WIDTH, CANVAS_HEIGHT);
         gc = canvas.getGraphicsContext2D();
 
-        // Create controller
+        // Create CurrencyConverterApp.controller
         controller = new Controller(this, CANVAS_WIDTH, CANVAS_HEIGHT);
 
         // Create status label
